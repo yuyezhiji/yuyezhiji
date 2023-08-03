@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yuyezhiji&show_icons=true&theme=tokyonight" /> </div>
+<!-- <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yuyezhiji&show_icons=true&theme=tokyonight" /> </div> -->
 
 
 <div align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=每一天都是独一无二&center=true&font=Roboto&size=27" /></div>
