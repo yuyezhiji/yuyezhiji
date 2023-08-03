@@ -15,4 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yang-tian-hub&show_icons=true&theme=tokyonight" /> </div>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yuyezhiji&show_icons=true&theme=tokyonight" /> </div>
+
+
+<div align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=今日事，今日毕!;活着就是一个个无可替代的;日子的累积;小杨同学祝您今天愉快!&center=true&font=Roboto&size=27" /></div>
+
