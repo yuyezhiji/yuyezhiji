@@ -21,3 +21,8 @@ Here are some ideas to get you started:
 <div align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=每一天都是独一无二&center=true&font=Roboto&size=27" /></div>
 
 
+
+微信 yuyezhiji
+公众号
+
+<div align="center"> <img src="https://github.com/yuyezhiji/yuyezhiji/blob/main/yuyezhiji.jpg" /></div>
